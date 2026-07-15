@@ -20,6 +20,7 @@ These notes are designed for **Frontend Developers**, **React Developers**, and 
 10. [API Throttling](#10-your-api-calls-frequently-hit-the-rate-limit-how-would-you-throttle)
 11. [Handling 100K+ Users](#11-suppose-you-are-having-1lakh-user-data-so-how-would-you-handle-it)
 12. [LinkedIn Feed Infinite Scroll](#12-your-react-app-needs-infinite-scrolling-like-linkedin-feed-how-would-you-implement-it-efficiently)
+13. [Fixed complex challenges](#13- How do you fix complex challenges during development and how you resolved efficiently ?)
 
 ---
 
@@ -41,6 +42,7 @@ These notes are designed for **Frontend Developers**, **React Developers**, and 
 ├── 10-API-Throttling-Debouncing.md
 ├── 11-Handling-100K-Users.md
 ├── 12-LinkedIn-Infinite-Feed.md
+├── 13-complex-issue-resolved.md
 └── assets/
 ```
 
