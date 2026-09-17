@@ -8,19 +8,26 @@ These notes are designed for **Frontend Developers**, **React Developers**, and 
 
 # 📚 Table of Contents
 
-1. [Building an Infinite Scrolling Component](#1-building-an-infinite-scrolling-component-for-large-api-datasets)
-2. [Auto Logout After Inactivity](#2-how-would-you-auto-logout-users-after-30-minutes-of-inactivity-in-a-react-app)
-3. [Internationalization (i18n)](#3-your-app-must-support-multiple-languages-how-would-you-implement-internationalization-in-react)
-4. [Large File Upload](#4-you-need-to-upload-large-files-100mb-in-react-how-do-you-handle-this-without-timeouts)
-5. [Google Indexing & React SEO](#5-your-client-complains-that-google-isnt-indexing-your-react-spa-how-would-you-solve-this-issue)
-6. [Stale Closures in useEffect](#6-inside-useeffect-youre-working-with-outdated-state-values-how-do-you-fix-stale-closures)
-7. [Bundle Size Optimization](#7-your-app-bundle-is-too-large-how-do-you-reduce-the-bundle-size-and-improve-load-time)
-8. [Role-Based Routing](#8-some-routes-must-only-be-accessed-by-admins-how-would-you-protect-and-manage-role-based-routes-in-react-router)
-9. [Page Transitions & Animations](#9-your-product-team-asks-for-smooth-page-transitions--animations-whats-your-approach-in-react)
-10. [API Throttling](#10-your-api-calls-frequently-hit-the-rate-limit-how-would-you-throttle)
-11. [Handling 100K+ Users](#11-suppose-you-are-having-1lakh-user-data-so-how-would-you-handle-it)
-12. [LinkedIn Feed Infinite Scroll](#12-your-react-app-needs-infinite-scrolling-like-linkedin-feed-how-would-you-implement-it-efficiently)
-13. [Fixed complex challenges](#13- How do you fix complex challenges during development and how you resolved efficiently ?)
+## Scenario-Based React Interview Questions
+
+| # | Topic | File |
+|---|---|---|
+| 1 | Infinite Scrolling | [01-Infinite-Scrolling.md](./01-Infinite-Scrolling.md) |
+| 2 | Auto Logout After Inactivity | [02-Auto-Logout-After-Inactivity.md](./02-Auto-Logout-After-Inactivity.md) |
+| 3 | Internationalization (i18n) | [03-Internationalization-i18n.md](./03-Internationalization-i18n.md) |
+| 4 | Large File Upload | [04-Large-File-Upload.md](./04-Large-File-Upload.md) |
+| 5 | React SEO & Google Indexing | [05-React-SEO-Google-Indexing.md](./05-React-SEO-Google-Indexing.md) |
+| 6 | Stale Closures in useEffect | [06-Stale-Closures-useEffect.md](./06-Stale-Closures-useEffect.md) |
+| 7 | Bundle Optimization | [07-Bundle-Optimization.md](./07-Bundle-Optimization.md) |
+| 8 | Role-Based Routing | [08-Role-Based-Routing.md](./08-Role-Based-Routing.md) |
+| 9 | Page Transitions & Animations | [09-Page-Transitions-Animations.md](./09-Page-Transitions-Animations.md) |
+| 10 | API Throttling & Debouncing | [10-API-Throttling-Debouncing.md](./10-API-Throttling-Debouncing.md) |
+| 11 | Handling 100K+ Users | [11-Handling-100K-Users.md](./11-Handling-100K-Users.md) |
+| 12 | LinkedIn-Style Infinite Feed | [12-LinkedIn-Infinite-Feed.md](./12-LinkedIn-Infinite-Feed.md) |
+| 13 | Complex Challenges Resolved | [13-Complex-Challenges-Resolved.md](./13-Complex-Challenges-Resolved.md) |
+| 14 | Async Race Conditions | [14-Async-Race-Conditions-Guide.md](./14-Async-Race-Conditions-Guide.md) |
+| 15 | React Project Folder Structure | [15-React-Project-Folder-Structure-Senior-Interview-Guide.md](./15-React-Project-Folder-Structure-Senior-Interview-Guide.md) |
+| 16 | Critical Bug You Solved | [16-Critical-Bug-You-Solved.md](./16-Critical-Bug-You-Solved.md) |
 
 ---
 
@@ -43,6 +50,9 @@ These notes are designed for **Frontend Developers**, **React Developers**, and 
 ├── 11-Handling-100K-Users.md
 ├── 12-LinkedIn-Infinite-Feed.md
 ├── 13-complex-issue-resolved.md
+├── 14-async_race_conditions_guide.md
+├── 15-React_Project_Folder_Structure_Senior_Interview_Guide.md    
+├── 16- What_Critical_Bug_you_solved.md
 └── assets/
 ```
 
