@@ -53,6 +53,9 @@ These notes are designed for **Frontend Developers**, **React Developers**, and 
 ├── 14-async_race_conditions_guide.md
 ├── 15-React_Project_Folder_Structure_Senior_Interview_Guide.md    
 ├── 16- What_Critical_Bug_you_solved.md
+├── 17- How will you secure you React APP.md
+├── 18- Authentication_Authorization.md
+├── 19- Microfrontends_and_Monorepos.md
 └── assets/
 ```
 
